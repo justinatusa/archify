@@ -1,0 +1,4 @@
+Authorized GitHub connector permission test.
+Test ID: 20260930-0737
+Revision: 1
+Only isolated test branches are affected.
