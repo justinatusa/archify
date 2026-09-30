@@ -1,4 +1,4 @@
 Authorized GitHub connector permission test.
 Test ID: 20260930-0737
-Revision: 1
-Only isolated test branches are affected.
+Revision: 2
+Create/read/update verified on isolated test branches.
