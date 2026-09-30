@@ -1,4 +1,4 @@
 Authorized GitHub connector permission test.
 Test ID: 20260930-0737
-Merge method: squash
+Merge method: rebase
 Only isolated test branches are affected.
